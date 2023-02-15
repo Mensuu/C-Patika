@@ -1,0 +1,15 @@
+C:\Users\Menekşe\source\repos\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.exe
+C:\Users\Menekşe\source\repos\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.deps.json
+C:\Users\Menekşe\source\repos\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.runtimeconfig.json
+C:\Users\Menekşe\source\repos\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.dll
+C:\Users\Menekşe\source\repos\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.pdb
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.csproj.AssemblyReference.cache
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.AssemblyInfoInputs.cache
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.AssemblyInfo.cs
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.csproj.CoreCompileInputs.cache
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.dll
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\refint\ForLoopBreak.dll
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.pdb
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.genruntimeconfig.cache
+C:\Users\Menekşe\source\repos\ForLoopBreak\obj\Debug\net6.0\ref\ForLoopBreak.dll

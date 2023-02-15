@@ -1,0 +1,15 @@
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.AssemblyInfo.cs
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0\hesapMakinesi.exe
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0\hesapMakinesi.deps.json
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0\hesapMakinesi.runtimeconfig.json
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0\hesapMakinesi.dll
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0\hesapMakinesi.pdb
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.dll
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\refint\hesapMakinesi.dll
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.pdb
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\hesapMakinesi.genruntimeconfig.cache
+C:\Users\pinar.yasan\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0\ref\hesapMakinesi.dll

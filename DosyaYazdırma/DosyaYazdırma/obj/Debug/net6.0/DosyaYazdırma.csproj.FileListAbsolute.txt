@@ -1,0 +1,15 @@
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.csproj.AssemblyReference.cache
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.AssemblyInfoInputs.cache
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.AssemblyInfo.cs
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\bin\Debug\net6.0\DosyaYazdırma.exe
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\bin\Debug\net6.0\DosyaYazdırma.deps.json
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\bin\Debug\net6.0\DosyaYazdırma.runtimeconfig.json
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\bin\Debug\net6.0\DosyaYazdırma.dll
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\bin\Debug\net6.0\DosyaYazdırma.pdb
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.dll
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\refint\DosyaYazdırma.dll
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.pdb
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\DosyaYazdırma.genruntimeconfig.cache
+C:\Users\pinar.yasan\source\repos\DosyaYazdırma\DosyaYazdırma\obj\Debug\net6.0\ref\DosyaYazdırma.dll

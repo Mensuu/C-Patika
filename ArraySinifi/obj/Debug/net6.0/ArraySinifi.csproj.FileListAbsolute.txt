@@ -1,0 +1,15 @@
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.csproj.AssemblyReference.cache
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.AssemblyInfoInputs.cache
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.AssemblyInfo.cs
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.csproj.CoreCompileInputs.cache
+C:\Users\Menekşe\source\repos\ArraySinifi\bin\Debug\net6.0\ArraySinifi.exe
+C:\Users\Menekşe\source\repos\ArraySinifi\bin\Debug\net6.0\ArraySinifi.deps.json
+C:\Users\Menekşe\source\repos\ArraySinifi\bin\Debug\net6.0\ArraySinifi.runtimeconfig.json
+C:\Users\Menekşe\source\repos\ArraySinifi\bin\Debug\net6.0\ArraySinifi.dll
+C:\Users\Menekşe\source\repos\ArraySinifi\bin\Debug\net6.0\ArraySinifi.pdb
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.dll
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\refint\ArraySinifi.dll
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.pdb
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ArraySinifi.genruntimeconfig.cache
+C:\Users\Menekşe\source\repos\ArraySinifi\obj\Debug\net6.0\ref\ArraySinifi.dll

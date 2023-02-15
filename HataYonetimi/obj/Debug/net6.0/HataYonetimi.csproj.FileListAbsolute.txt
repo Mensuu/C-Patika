@@ -1,0 +1,15 @@
+C:\Users\Menekşe\source\repos\HataYonetimi\bin\Debug\net6.0\HataYonetimi.exe
+C:\Users\Menekşe\source\repos\HataYonetimi\bin\Debug\net6.0\HataYonetimi.deps.json
+C:\Users\Menekşe\source\repos\HataYonetimi\bin\Debug\net6.0\HataYonetimi.runtimeconfig.json
+C:\Users\Menekşe\source\repos\HataYonetimi\bin\Debug\net6.0\HataYonetimi.dll
+C:\Users\Menekşe\source\repos\HataYonetimi\bin\Debug\net6.0\HataYonetimi.pdb
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.AssemblyInfo.cs
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.dll
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\refint\HataYonetimi.dll
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.pdb
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\HataYonetimi.genruntimeconfig.cache
+C:\Users\Menekşe\source\repos\HataYonetimi\obj\Debug\net6.0\ref\HataYonetimi.dll

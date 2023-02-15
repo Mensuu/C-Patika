@@ -1,0 +1,15 @@
+C:\Users\Menekşe\source\repos\Methotlar\bin\Debug\net6.0\Methotlar.exe
+C:\Users\Menekşe\source\repos\Methotlar\bin\Debug\net6.0\Methotlar.deps.json
+C:\Users\Menekşe\source\repos\Methotlar\bin\Debug\net6.0\Methotlar.runtimeconfig.json
+C:\Users\Menekşe\source\repos\Methotlar\bin\Debug\net6.0\Methotlar.dll
+C:\Users\Menekşe\source\repos\Methotlar\bin\Debug\net6.0\Methotlar.pdb
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.csproj.AssemblyReference.cache
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.AssemblyInfoInputs.cache
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.AssemblyInfo.cs
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.csproj.CoreCompileInputs.cache
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.dll
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\refint\Methotlar.dll
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.pdb
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\Methotlar.genruntimeconfig.cache
+C:\Users\Menekşe\source\repos\Methotlar\obj\Debug\net6.0\ref\Methotlar.dll

@@ -1,0 +1,15 @@
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\bin\Debug\net6.0\RekürsifExtensionMetotlar.exe
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\bin\Debug\net6.0\RekürsifExtensionMetotlar.deps.json
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\bin\Debug\net6.0\RekürsifExtensionMetotlar.runtimeconfig.json
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\bin\Debug\net6.0\RekürsifExtensionMetotlar.dll
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\bin\Debug\net6.0\RekürsifExtensionMetotlar.pdb
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.AssemblyInfo.cs
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.dll
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\refint\RekürsifExtensionMetotlar.dll
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.pdb
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\RekürsifExtensionMetotlar.genruntimeconfig.cache
+C:\Users\Menekşe\source\repos\RekürsifExtensionMetotlar\obj\Debug\net6.0\ref\RekürsifExtensionMetotlar.dll
